@@ -1,0 +1,50 @@
+{
+    "id": "49826039-a22c-488d-b394-db2c93bc3c34",
+    "value": null,
+    "items": [
+      {
+        "id": "ec2ecb12-834f-486d-a06c-335f8623ba03",
+        "name": "2",
+        "description": "25",
+        "value": 14,
+        "time": null
+      },
+      {
+        "id": "384bd522-19a3-480e-be52-c7e0e428f485",
+        "name": "5984",
+        "description": "148",
+        "value": 498,
+        "time": null
+      }
+    ],
+    "address": null,
+    "client": {
+      "id": "cec481a1-54f2-40c2-9f76-2bd277f977b0",
+      "company": null,
+      "name": "asadasdsadasdsadsadas",
+      "email": "andreixhz123@gmail.com",
+      "document": "aa",
+      "phone": "23131",
+      "birthdate": null,
+      "createdDate": "2023-03-13T21:08:12.535+00:00"
+    },
+    "userModelDto": {
+      "id": "cebd1adc-910d-4776-8fe1-e774984825d0",
+      "company": {
+        "id": "f063b296-6d01-4fb6-90f4-3622196385f1",
+        "user": null,
+        "address": null,
+        "name": "Avelino Obras",
+        "document": null,
+        "phone": "15515252",
+        "email": "andersonxhz@gmail.com"
+      },
+      "name": "Andrei Tesões",
+      "email": "andreixhz123@gmail.com",
+      "document": "11212211313",
+      "birthdate": null,
+      "createdDate": "2023-03-13T20:56:50.803+00:00"
+    },
+    "createdAt": null
+  }
+  
